@@ -1,0 +1,15 @@
+<!-- TODO: sticky header: https://getbootstrap.com/docs/4.0/utilities/position/#sticky-top  -->
+<div class='header header-absolute sticky-top'>
+  <div class="container">
+    <div class="logo">
+			<img alt="Twitter" src="{{ .Site.BaseURL }}images/logos/cpp-logo.svg" style="height:32px"/>
+			
+      <a href="{{ .Site.BaseURL }}">Ethereum Community Fund</a>
+    </div>
+    <div class="logo-mobile">
+      <a href="{{ .Site.BaseURL }}"><img alt="Home" src="{{ .Site.BaseURL }}images/logo-mobile.svg" /></a>
+    </div>
+    {{ partial "main-menu.html" . }}
+    {{ partial "hamburger.html" . }}
+  </div>
+</div>

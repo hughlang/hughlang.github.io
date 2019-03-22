@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Develop on Wasm Network</title>
+    <link>/develop/</link>
+    <description>Recent content in Develop on Wasm Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved - 2019</copyright>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    
+	<atom:link href="/develop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rust</title>
+      <link>/develop/rust/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/develop/rust/</guid>
+      <description>&lt;p&gt;The Rust language is emerging as a favorite for Wasm development.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
