@@ -6776,7 +6776,7 @@ ul.social {
     margin: 0;
     padding: 0;
     list-style: none;
-    margin-right: 30px; }
+    margin-right: 20px; }
     ul.social li:last-of-type {
       margin: 0; }
     ul.social li a {
@@ -6787,22 +6787,10 @@ ul.social {
       display: block; }
       ul.social li a span {
         font-size: 24px; }
-
-ul.social .social-instagram {
-  background-image: url("/images/social/logo-instagram-blue.svg"); }
-
-ul.social .social-linkedin {
-  background-image: url("/images/social/logo-linkedin-blue.svg"); }
-
-ul.social .social-twitter img {
-  fill: red;
-  height: 32px;
-  width: 32px; }
-
-ul.social .social-medium img {
-  fill: white;
-  height: 32px;
-  width: 32px; }
+  ul.social svg.icon {
+    fill: white; }
+  ul.social svg.icon:hover {
+    fill: orange; }
 
 .hamburger {
   padding: 10px 0 10px 10px;
@@ -7084,7 +7072,6 @@ ul.social .social-medium img {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
-  background-blend-mode: overlay;
   background-color: #43454d;
   height: 300px;
   position: relative; }
@@ -7132,7 +7119,7 @@ ul.social .social-medium img {
   height: 100vh; }
 
 .hero-image-setheight {
-  height: 300px; }
+  height: 400px; }
 
 .hero-image-blend-overlay {
   background-blend-mode: overlay; }

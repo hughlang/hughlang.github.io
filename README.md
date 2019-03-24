@@ -25,8 +25,10 @@ This section contains information for helping with the development of this site.
 
 ## Important Links
 
-* https://gohugo.io/content-management/organization/
-* https://getbootstrap.com/docs/4.0/utilities/spacing/
+* Hugo Content Management: https://gohugo.io/content-management/organization/
+* This is the Hugo theme that was copied and modified: https://github.com/jugglerx/hugo-hero-theme
+* Bootstrap: https://getbootstrap.com/docs/4.0/utilities/spacing/ 
+
 CSS gradients
 * https://mycolor.space/gradient
 * https://cssgradient.io/
