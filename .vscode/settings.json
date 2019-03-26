@@ -1,5 +1,7 @@
 {
     "files.exclude": {
-        "docs": true
+        ".vscode": true,
+        "docs": true,
+        "resources": true
     }
 }
